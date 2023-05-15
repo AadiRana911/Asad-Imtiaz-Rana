@@ -25,8 +25,8 @@ const ContactMe = (props: Props) => {
             </h3>
             <div className="flex flex-col space-y-5 sm:space-y-10 mt-5 lg:mt-5 xl:mt-10">
                 <h4 className="text-md sm:text-xl md:text-2xl lg:text-4xl xl:text-4xl font-semibold text-center">
-                    I've got just what you need.
-                    <span className='decoration-[#F7AB0A]/50 underline'>Let's Talk</span>
+                    I&apos;ve got just what you need.
+                    <span className='decoration-[#F7AB0A]/50 underline'>Let&apos;s Talk</span>
                 </h4>
 
                 <div className='space-y-3 sm:space-y-5 md:space-y-5 lg:space-y-5 xl:space-y-5'>
