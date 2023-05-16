@@ -15,7 +15,7 @@ const Hero = (props: Props) => {
   return (
     <div className='h-screen flex flex-col space-y-8 items-center justify-center text-center overflow-hidden'>
         <BackgroundCircles />
-        <Image
+        <img
         className='relative rounded-full h-32 w-32 object-cover'
         src={`${baseUrl}${asad}`}
         alt='Asad Image' width={100} height={100} />
