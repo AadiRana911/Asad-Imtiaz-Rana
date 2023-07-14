@@ -28,9 +28,9 @@ const Header = (props: Props) => {
         }}
         className='flex flex-row items-center'>
             {/* Social Icons */}
-            <SocialIcon url="https://linkedin.com/in/jaketrent" fgColor='gray' bgColor='transparent' />
-            <SocialIcon url="https://linkedin.com/in/jaketrent" fgColor='gray' bgColor='transparent' />
-            <SocialIcon url="https://linkedin.com/in/jaketrent" fgColor='gray' bgColor='transparent' />
+            <SocialIcon url="https://www.linkedin.com/in/asad-rana-996137158/" fgColor='gray' bgColor='transparent' />
+            <SocialIcon url="https://www.linkedin.com/in/asad-rana-996137158/" fgColor='gray' bgColor='transparent' />
+            <SocialIcon url="https://www.linkedin.com/in/asad-rana-996137158/" fgColor='gray' bgColor='transparent' />
         </motion.div>
         <motion.div 
         initial={{
